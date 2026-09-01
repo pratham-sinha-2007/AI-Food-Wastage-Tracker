@@ -1,0 +1,3 @@
+0 Grade A
+1 Grade B and C
+2 Grade D
