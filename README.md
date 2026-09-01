@@ -2,6 +2,10 @@
 
 An automated, AI-powered system designed to reduce food waste in cafeterias and mess halls. Using **Computer Vision (Google Teachable Machine)**, the system evaluates a user's plate after eating, grades their waste level, and automatically issues physical rewards via an **Arduino** or penalties via a **Caterer Database**.
 
+## 📺 Video Demonstration
+
+You can watch a full video demonstration of the system in action on [YouTube](https://youtu.be/k4K8XxmZtM8?si=tDPvSI2xfj21ofHY).
+
 
 ## 🎯 How It Works (The Grading Logic)
 
